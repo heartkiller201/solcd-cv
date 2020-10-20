@@ -14,6 +14,12 @@
 
 ## My skills by priority
 1. SQL
+```
+SELECT
+INSERT
+DELETE
+UPDATE	
+```
 1. HTML
 1. CSS
 
@@ -23,9 +29,9 @@ I have a little experience testing web and mobile apps
 ## Education
 * higher education in BSUIR
 * courses
- * BSUIR classes
- * a simple online cource
- * Kulikov's book was read
+   * BSUIR classes
+   * a simple online cource
+   * Kulikov's book was read
 
 ## English
  As **Mark Twain** said:
