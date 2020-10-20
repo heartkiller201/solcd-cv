@@ -1,4 +1,6 @@
 # CV
 ## Info
-**Name:** Vladislav 
+**Name:** Vladislav
+ 
 **Surname:** Tretyak
+## Contact info
