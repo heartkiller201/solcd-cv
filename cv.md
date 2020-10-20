@@ -1,1 +1,4 @@
-# My CV on the second branch
+# CV
+## Info
+**Name:** Vladislav 
+**Surname:** Tretyak
